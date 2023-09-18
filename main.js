@@ -1,4 +1,4 @@
-import * as THREE from 'https://unpkg.com/browse/three@0.97.0/build/three.module.js';
+import * as THREE from 'three';
 import { MTLLoader } from 'three/addons/loaders/MTLLoader.js';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
